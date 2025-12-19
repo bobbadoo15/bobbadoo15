@@ -16,6 +16,10 @@ Welcome to my GitHub profile!
 - Numerical Analysis & Modeling
 - Rockets!!
 
+## Current Projects
+- Researching the optimal position for aircraft to be in when flying in v-formation. This optimal position is where the trailing aircraft experiences the least induced drag from the aircraft in front.
+- Documenting and writing my conference paper for the 2027 AIAA SciTech Conference.
+
 ## Technologies and Tools
 ### Languages
 - Python
