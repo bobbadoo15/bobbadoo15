@@ -1,4 +1,8 @@
-## Hi there 👋
+# Brinton Montgomery
+
+Hello GitHub! 👋
+
+I'm Brinton, an undergraduate at Utah State University studying Mechanical Engineering with an emphasis in Aerospace Engineering and also pursuing my Master's in Aerospace Engineering concurrently. Welcome to my GitHub profile!
 
 <!--
 **bobbadoo15/bobbadoo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
