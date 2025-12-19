@@ -12,9 +12,9 @@ Welcome to my GitHub profile!
 ### Languages
 - Python
 - Fortran 90
-- Matlab
 
 ### Tools
+- Matlab
 - VS Code
 - Solidworks
 - MS Excel
