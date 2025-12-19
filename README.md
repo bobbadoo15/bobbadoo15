@@ -1,6 +1,9 @@
 # Brinton Montgomery
 Hello GitHub! 👋
-I'm Brinton, an undergraduate at Utah State University studying Mechanical Engineering with an emphasis in Aerospace Engineering. I am also currently pursuing my Master's in Aerospace Engineering concurrently. Welcome to my GitHub profile!
+
+I'm Brinton, an undergraduate at Utah State University studying Mechanical Engineering with an emphasis in Aerospace Engineering. I am also currently pursuing my Master's in Aerospace Engineering concurrently. 
+
+Welcome to my GitHub profile!
 
 ## About Me
 
