@@ -6,7 +6,15 @@ I'm Brinton, an undergraduate at Utah State University studying Mechanical Engin
 Welcome to my GitHub profile!
 
 ## About Me
+- Married to Alexis Montgomery and have a son name Braxton
 
+## Interests
+- Aerodynamics
+  - Hypersonics
+- Propulsion Systems
+- Computational Fluid Dynamics (CFD)
+- Numerical Analysis & Modeling
+- Rockets!!
 
 ## Technologies and Tools
 ### Languages
