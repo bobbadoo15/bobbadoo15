@@ -10,7 +10,6 @@ Welcome to my GitHub profile!
 
 ## Interests
 - Aerodynamics
-  - Hypersonics
 - Propulsion Systems
 - Computational Fluid Dynamics (CFD)
 - Numerical Analysis & Modeling
