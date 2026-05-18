@@ -6,23 +6,35 @@ I'm Brinton, an undergraduate at Utah State University studying Mechanical Engin
 Welcome to my GitHub profile!
 
 ## About Me
-- Happily married to a wonderful wife and have a son name Braxton
+- Happily married to my wonderful wife, Lexi, and have a son name Braxton.
+- Involved in my church congrigation by being a Sunday School Teacher with my wife.
+- Served a 2-year service mission in Madagascar for my religious organization, assisting the community in their language (Malagasy).
+- Loved working on my Jeep (before I had to sell it..).
+- I think flying RC Planes are fun!
+- For downtime, I enjoy watching sports, play video games, play games with friends and family, and spending time with my family.
 
 ## Interests
 - Aerodynamics
+- Flight Mechanics/Dynamics
+- Flight Simulation Development
 - Propulsion Systems
 - Computational Fluid Dynamics (CFD)
 - Numerical Analysis & Modeling
-- Rockets!!
 
-## Current Projects
-- Researching the optimal position for aircraft to be in when flying in v-formation. This optimal position is where the trailing aircraft experiences the least induced drag from the aircraft in front.
-- Documenting and writing my conference paper for the 2027 AIAA SciTech Conference.
+## Current Project I am working on
+- Assisting in rapid aero/flight dynamics modeling of small UAS in the shipboard environment for the Naval Air Warfare Center Air Division (NAWCAD) as part of research.
+- Developing my own flight simulator.
+
+## Previous Research Project
+- Researched the optimal position for aircraft to be in when flying in v-formation (still in development). This optimal position is where the trailing aircraft experiences the least induced drag from the aircraft in front.
 
 ## Technologies and Tools
-### Languages
+### Common Languages I Use
 - Python
 - Fortran 90
+
+### Languages I Would Like to Learn
+-C/C++
 
 ### Tools
 - Matlab
@@ -30,18 +42,3 @@ Welcome to my GitHub profile!
 - Solidworks
 - MS Excel
 - GitHub
-
-<!--
-**bobbadoo15/bobbadoo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
