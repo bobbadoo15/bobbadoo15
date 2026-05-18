@@ -34,7 +34,7 @@ Welcome to my GitHub profile!
 - Fortran 90
 
 ### Languages I Would Like to Learn
--C/C++
+- C/C++
 
 ### Tools
 - Matlab
