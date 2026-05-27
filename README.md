@@ -34,9 +34,10 @@ Welcome to my GitHub profile!
 - Fortran 90
 
 ### Languages I Would Like to Learn
-- C/C++
+- C++
+- Languages Raspberry Pi can use
 
-### Tools
+### Tools I have used or currently use
 - Matlab
 - VS Code
 - Solidworks
