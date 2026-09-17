@@ -7,11 +7,11 @@ Welcome to my GitHub profile!
 
 ## About Me
 - Happily married to my wonderful wife, Lexi, and have a son name Braxton.
-- Involved in my church congrigation by being a Sunday School Teacher with my wife.
+- Involved in my religious organization by being a Ministering Secretary.
 - Served a 2-year service mission in Madagascar for my religious organization, assisting the community in their language (Malagasy).
 - Loved working on my Jeep (before I had to sell it..).
 - I think flying RC Planes are fun!
-- For downtime, I enjoy watching sports, play video games, play games with friends and family, and spending time with my family.
+- For downtime, I enjoy watching sports, playing video games, playing games with friends and family, and spending time with my family.
 
 ## Interests
 - Aerodynamics
@@ -20,10 +20,18 @@ Welcome to my GitHub profile!
 - Propulsion Systems
 - Computational Fluid Dynamics (CFD)
 - Numerical Analysis & Modeling
+- Hypersonics
 
-## Current Project I am working on
-- Assisting in rapid aero/flight dynamics modeling of small UAS in the shipboard environment for the Naval Air Warfare Center Air Division (NAWCAD) as part of research.
-- Developing my own flight simulator.
+## Senior Design/Capstone Project
+- NASA funded research to design and build an aircraft with a Prandtl bell spanload/lift distribution.
+
+## Current Research Project
+- Assisting in rapid aero/flight dynamics modeling of small UAS in the shipboard environment for the Naval Air Warfare Center Air Division (NAWCAD).
+
+## Current Personal Projects
+- Developing my own flight simulator using Fortran and Python.
+- Creating my own 4-Digit NACA Airfoil Generator. Would love to expand this to other airfoil types.
+- Compiling my own online portfolio to better visualize more about me.
 
 ## Previous Research Project
 - Researched the optimal position for aircraft to be in when flying in v-formation (still in development). This optimal position is where the trailing aircraft experiences the least induced drag from the aircraft in front.
@@ -31,14 +39,14 @@ Welcome to my GitHub profile!
 ## Technologies and Tools
 ### Common Languages I Use
 - Python
-- Fortran 90
+- FORTRAN 90
 
 ### Languages I Would Like to Learn
 - C++
 - Languages Raspberry Pi can use
 
 ### Tools I have used or currently use
-- Matlab
+- MATLAB
 - VS Code
 - Solidworks
 - MS Excel
