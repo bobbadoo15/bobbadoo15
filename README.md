@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 ## Current Senior Design Project
 - NASA funded research to design and build an aircraft with a Prandtl bell spanload/lift distribution.
-- My role is to computationally model the aircraft's planform that produces the Prandtl bell-shaped lift distrobution.
+- My role is to computationally model the aircraft's planform that produces the Prandtl bell-shaped lift distribution.
 
 ## Current Research Project
 - Assisting in rapid aero/flight dynamics modeling of small UAS in the shipboard environment for the Naval Air Warfare Center Air Division (NAWCAD).
