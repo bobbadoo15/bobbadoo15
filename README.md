@@ -1,19 +1,20 @@
 # Brinton Montgomery
 Hello GitHub! 👋
 
-I'm Brinton, an undergraduate at Utah State University studying Mechanical Engineering with an emphasis in Aerospace Engineering. I am also currently pursuing my Master's in Aerospace Engineering concurrently. 
+My name is Brinton Montgomery. I am an undergraduate at Utah State University studying Mechanical Engineering with an emphasis in Aerospace Engineering. I am also currently pursuing my Master's in Aerospace Engineering concurrently. 
 
 Welcome to my GitHub profile!
 
 ## About Me
-- Happily married to my wonderful wife, Lexi, and have a son name Braxton.
+- Happily married to my wonderful wife, Lexi,
+- We have a 16-month-old son name Braxton, and another one on the way (due April)!.
 - Involved in my religious organization by being a Ministering Secretary.
 - Served a 2-year service mission in Madagascar for my religious organization, assisting the community in their language (Malagasy).
 - Loved working on my Jeep (before I had to sell it..).
-- I think flying RC Planes are fun!
+- I would love to get into a hobby with RC planes!
 - For downtime, I enjoy watching sports, playing video games, playing games with friends and family, and spending time with my family.
 
-## Interests
+## Areas of Interest
 - Aerodynamics
 - Flight Mechanics/Dynamics
 - Flight Simulation Development
@@ -22,19 +23,24 @@ Welcome to my GitHub profile!
 - Numerical Analysis & Modeling
 - Hypersonics
 
-## Senior Design/Capstone Project
+## Current Senior Design Project
 - NASA funded research to design and build an aircraft with a Prandtl bell spanload/lift distribution.
+- My role is to computationally model the aircraft's planform that produces the Prandtl bell-shaped lift distrobution.
 
 ## Current Research Project
 - Assisting in rapid aero/flight dynamics modeling of small UAS in the shipboard environment for the Naval Air Warfare Center Air Division (NAWCAD).
+- Our model uses MAVRIK (FORTRAN physics engine for flight simulation) from Falcon Aerospace that communicates with PX4's Autopilot as the controller and QGroundControl as the mission planner.
+  - This produces real-time simulation and data, which saves time and money for the Navy.
+- My role has been taking the lead to making sure that MAVRIK, PX4, and QGC work together on our machines and produce accurate solutions when using data provided by the Navy.
 
 ## Current Personal Projects
 - Developing my own flight simulator using Fortran and Python.
-- Creating my own 4-Digit NACA Airfoil Generator. Would love to expand this to other airfoil types.
+- Creating my own 4-Digit NACA Airfoil Generator using MATLAB. Would love to expand this to other airfoil types, such as 5-digit NACA and specific airfoils like the Clark-Y. I would love to also make this compatible in Python.
+- Creating a C-Mesh configuration in Python for a 4-Digit NACA airfoil that can be used in SU2's Multiphysics Engine and Paraview (to visualize the results from SU2).
 - Compiling my own online portfolio to better visualize more about me.
 
 ## Previous Research Project
-- Researched the optimal position for aircraft to be in when flying in v-formation (still in development). This optimal position is where the trailing aircraft experiences the least induced drag from the aircraft in front.
+- Researched the optimal position for aircraft to be in when flying in v-formation (still in development). This optimal position is where the trailing aircraft experiences the least induced drag from the leading aircraft.
 
 ## Technologies and Tools
 ### Common Languages I Use
@@ -49,5 +55,6 @@ Welcome to my GitHub profile!
 - MATLAB
 - VS Code
 - Solidworks
-- MS Excel
+- MS Excel/Word
 - GitHub
+- LabView
