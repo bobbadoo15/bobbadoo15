@@ -32,6 +32,7 @@ Welcome to my GitHub profile!
 - Our model uses MAVRIK (FORTRAN physics engine for flight simulation) from Falcon Aerospace that communicates with PX4's Autopilot as the controller and QGroundControl as the mission planner.
   - This produces real-time simulation and data, which saves time and money for the Navy.
 - My role has been taking the lead to making sure that MAVRIK, PX4, and QGC work together on our machines and produce accurate solutions when using data provided by the Navy.
+- NOTE: My codes used for this research are kept private for confidentiality reasons for the Navy and contains private programs from Falcon Aerospace that require licenses.
 
 ## Current Personal Projects
 - Developing my own flight simulator using Fortran and Python.
@@ -41,6 +42,7 @@ Welcome to my GitHub profile!
 
 ## Previous Research Project
 - Researched the optimal position for aircraft to be in when flying in v-formation (still in development). This optimal position is where the trailing aircraft experiences the least induced drag from the leading aircraft.
+- NOTE: My codes used for this research are kept private due to private programs that require licenses.
 
 ## Technologies and Tools
 ### Common Languages I Use
